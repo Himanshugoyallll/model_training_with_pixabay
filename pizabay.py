@@ -33,7 +33,7 @@ from autodistill.detection import CaptionOntology
 # -----------------------------
 # User Configurations
 # -----------------------------
-API_KEY = "52293499-20edab5a9aeb2872ddc6cf68d"  # <--- Replace this
+API_KEY = ""  # <--- Replace this
 PIXABAY_QUERIES = ["cows in farm"]  # search queries
 LABELS = ["cow"]  # YOLO class names
 IMG_DIR = "./pixabay_images"  # folder to save downloaded images
